@@ -9,6 +9,7 @@ Bundle 'gmarik/vundle'
 " Syntax and language improvements.
 "Bundle 'groenewege/vim-less'
 Bundle 'helino/vim-json'
+Bundle 'digitaltoad/vim-jade'
 "Bundle 'mustache/vim-mode'
 Bundle 'pangloss/vim-javascript'
 Bundle 'jelera/vim-javascript-syntax'
